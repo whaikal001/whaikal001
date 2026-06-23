@@ -124,17 +124,13 @@ I'm probably:
 
 <br />
 
-<!-- ═════════════════════════ TROPHIES ═════════════════════════ -->
+<!-- ═════════════════════════ ACTIVITY GRAPH ═════════════════════════ -->
 
-## ✦ trophy shelf
+## ✦ commit rhythm
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=whaikal001&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whaikal001&bg_color=0D1117&color=14B8A6&line=F87171&point=ffffff&area=true&area_color=14B8A6&hide_border=true&custom_title=My%20coding%20activity%20over%20time" alt="activity graph" />
 </div>
-
-<br />
 
 <!-- ═════════════════════════ FEATURED PROJECTS ═════════════════════════ -->
 
