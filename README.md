@@ -22,8 +22,7 @@ university:  Universiti Utara Malaysia — School of Computing
 location:    Jitra, Kedah 🇲🇾
 fyp:         HANA — Adaptive Empathy-Based Conversational Agent
                 ↳ funded under MoHE FRGS/1/2024/ICT02/UUM/02/1
-side_quest:  ChocoDel — homemade chocolate spread venture 🍫
-currently:   Wrapping up FYP • Hunting internships • Sipping kopi-O
+currently:   Wrapping up FYP • Hunting internships •
 ```
 
 - 🎓 Final-year **B.IT (Software Engineering)** at **UUM**
