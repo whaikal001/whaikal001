@@ -33,7 +33,7 @@
 ## ✦ a little about me
 
 I'm a final-year **B.IT (Software Engineering)** student at **Universiti Utara Malaysia**, currently
-wrapping up my FYP — **HANA**, an adaptive empathy-based conversational agent built to support
+wrapping up my FYP **HANA**, an adaptive empathy-based conversational agent built to support
 student emotional well-being. It's funded under an **MoHE FRGS grant**
 I'm probably:
 
