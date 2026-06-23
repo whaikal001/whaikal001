@@ -103,7 +103,7 @@ I'm probably:
 
 <!-- ═════════════════════════ COMMIT SNAKE ═════════════════════════ -->
 
-## ✦ watch the snake eat my commits
+## ✦ Heyy watch the snake XD !!
 
 <div align="center">
   <picture>
@@ -134,7 +134,7 @@ I'm probably:
 
 <!-- ═════════════════════════ FEATURED PROJECTS ═════════════════════════ -->
 
-## ✦ what I'm building
+## ✦ what I'm building past few years
 
 <table>
 <tr>
