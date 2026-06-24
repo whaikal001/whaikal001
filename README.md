@@ -197,7 +197,7 @@ Full-stack conference management — paper submissions, reviewer assignment, sch
 
 ## ✦ let's talk
 
-I'm actively looking for **internships starting 2026** — especially anywhere doing thoughtful product, AI, or design-engineering work. Malaysia-based companies but I'm open to remote too.
+I'm actively looking for **internships starting 2026** — especially anywhere doing thoughtful product, AI, or design-engineering work. Malaysia-based companies but I'm open to remote too. ok
 
 <div align="left">
 
